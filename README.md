@@ -1,4 +1,6 @@
-# Учебный проект [HTMLacademy "Вёрстка карточных элементов интерфейса"](https://htmlacademy.ru/skills/card-layout/payment)
+# Карточка товара
+
+Учебный проект [HTMLacademy "Вёрстка карточных элементов интерфейса"](https://htmlacademy.ru/skills/card-layout/payment)
 
 - Методология БЭМ
 - CSS Grid, CSS Flexbox
